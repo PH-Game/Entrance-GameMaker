@@ -14,6 +14,7 @@
     {"id":{"name":"spr_invisible_wall","path":"sprites/spr_invisible_wall/spr_invisible_wall.yy",},"order":0,},
     {"id":{"name":"room_dream_1","path":"rooms/room_dream_1/room_dream_1.yy",},"order":0,},
     {"id":{"name":"obj_npc_a","path":"objects/obj_npc_a/obj_npc_a.yy",},"order":1,},
+    {"id":{"name":"obj_task_submittor","path":"objects/obj_task_submittor/obj_task_submittor.yy",},"order":2,},
     {"id":{"name":"spr_begin_1_animation","path":"sprites/spr_begin_1_animation/spr_begin_1_animation.yy",},"order":3,},
     {"id":{"name":"seq_begin_2_animation","path":"sequences/seq_begin_2_animation/seq_begin_2_animation.yy",},"order":1,},
     {"id":{"name":"obj_textbox","path":"objects/obj_textbox/obj_textbox.yy",},"order":1,},

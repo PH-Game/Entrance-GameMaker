@@ -1,4 +1,4 @@
-/// @description Initiate Varibles
+/// @description Text Box Properties
 
 text[0] = "";
 page = 0;

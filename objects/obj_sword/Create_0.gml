@@ -1,5 +1,4 @@
-/// @description Insert description here
-// You can write your code in this editor
+/// @description Properties of Sword
 
 itemName = "Sword";
 couldBeMultiple = false;

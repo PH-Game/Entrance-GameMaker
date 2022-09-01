@@ -1,5 +1,4 @@
-/// @description Insert description here
-// You can write your code in this editor
+/// @description Check If Begin Sequence Is Ended
 
 
 if (animation2 != noone) {

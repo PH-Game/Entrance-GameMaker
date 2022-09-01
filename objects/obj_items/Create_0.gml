@@ -1,4 +1,4 @@
-/// @description Initiate Varibles
+/// @description Item Properties
 
 itemName = "";
 itemCount = 0;
